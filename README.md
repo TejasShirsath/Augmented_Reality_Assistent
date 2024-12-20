@@ -86,6 +86,7 @@ The Augmented Reality Assistant is a virtual assistant inspired by JARVIS from I
 - **Python**: For the backend logic and server-side scripting.
 - **OpenCV**: For computer vision tasks.
 - **Google Generative AI (Gemini)**: For generating responses and explanations.
+- **cvzone.HandTrackingModule**: For detecting and tracking hand gestures to enable hand-based interaction features.
 - **Tesseract OCR**: For optical character recognition to detect text from images.
 - **Requests**: For making HTTP requests to APIs.
 - **pyttsx3**: For text-to-speech conversion.
