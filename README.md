@@ -24,6 +24,11 @@ The Augmented Reality Assistant is a virtual assistant inspired by JARVIS from I
       <td>✅</td>
     </tr>
     <tr>
+      <td>Hand Gesture Interaction</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td>Text Detection</td>
       <td>✅</td>
       <td>✅</td>
